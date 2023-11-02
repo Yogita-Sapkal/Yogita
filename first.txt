@@ -11,4 +11,8 @@ we are changing in remote
 >>>>>>> f0d46cfc4a606686cc40c0a7fa72a71624fb30f4
 =======
 we made change
+<<<<<<< HEAD
 >>>>>>> 2487ae43f7c370c6c502c56921ac0f82b4d6667e
+=======
+123
+>>>>>>> 6c2a991395d8da8324d93f8866fda4ed39af0613
