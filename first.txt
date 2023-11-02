@@ -3,3 +3,5 @@ Today is git lecture
 time now is 19.14
 
 hello all
+
+we are changing in remote
