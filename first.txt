@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 Hello all,,,,,
 My name is Yogita
+=======
+hello git
+Today is git lecture
+time now is 19.14
+hello all
+we are changing in remote
+>>>>>>> f0d46cfc4a606686cc40c0a7fa72a71624fb30f4
