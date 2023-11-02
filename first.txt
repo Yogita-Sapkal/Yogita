@@ -1,5 +1,4 @@
 hello git
-Today is git lecture
-time now is 19.14
 
-hello all
+
+
