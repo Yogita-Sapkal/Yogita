@@ -1,4 +1,10 @@
 hello git
 
+<<<<<<< HEAD
 
 
+=======
+hello all
+
+we are changing in remote
+>>>>>>> 415b01d5b7a9ac361823e510cd5de312fa3135c7
