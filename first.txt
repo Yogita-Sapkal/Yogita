@@ -7,4 +7,8 @@ Today is git lecture
 time now is 19.14
 hello all
 we are changing in remote
+<<<<<<< HEAD
 >>>>>>> f0d46cfc4a606686cc40c0a7fa72a71624fb30f4
+=======
+we made change
+>>>>>>> 2487ae43f7c370c6c502c56921ac0f82b4d6667e
